@@ -1,0 +1,24 @@
+第一步：建文件夹 （mkdir 包名 ）
+第二步：git init （初始化 ）
+第三步：git status （查看工作状态）
+第四步：git remote add origin http:的路径 
+第五步：git pull origin master  （拉取代码）
+第六步：ls
+第七步：更改数据
+第八步：git status 
+第九步：git add .
+第十步：git commit -m "修改" 
+////第十一步：修改邮箱和用户名
+第十二步： git commit -m "修改"
+第十三步：git push origin master
+
+
+
+
+
+创建并切换分支： git checkout -b 分支名
+添加分支： git push origin 分支名
+git status
+git add .
+git commit -m "t4"
+git push origin 分支名
